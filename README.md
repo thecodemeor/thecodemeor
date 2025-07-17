@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meor</h1>
 <h3 align="center">A passionate Front-end Developer from Malaysia</h3>
-✅ I am currently learning prompt engineering to make AI respond smarter and more creatively!.<br><br>
+<p align="center">✅  I am currently learning prompt engineering to make AI respond smarter and more creatively!.</p><br><br>
 
 <h2 align="center">Ask me questions anytime 💬</h2>
 <a align="center" href="https://www.meorhakimz.com/" >meorhakiz.com</a><br><br>
