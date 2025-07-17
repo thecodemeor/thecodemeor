@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meor</h1>
-<h3 align="center">A digital tinkerer turning ideas into clean UI, smart interactivity, and playful AI — portfolio pieces with skill and soul.</h3>
+<h3 align="center">A passionate Front-end Developer from Malaysia</h3>
 ✅ I am currently learning prompt engineering to make AI respond smarter and more creatively!.<br><br>
 
 <h2 align="center">Ask me questions anytime 💬</h2>
