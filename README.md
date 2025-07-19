@@ -4,7 +4,7 @@
 
 <h2 align="center">Ask me questions anytime 💬</h2>
 <a align="center" href="https://www.meorhakimz.com/">meorhakiz.com</a><br>
-- ✉️ Email me: meorhakimz@gmail.com
+✉️ Email me: meorhakimz@gmail.com
 <br><br>
 
 ```bash
