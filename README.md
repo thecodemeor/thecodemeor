@@ -3,7 +3,9 @@
 <p align="center">✅  I am currently learning prompt engineering to make AI respond smarter and more creatively!</p><br>
 
 <h2 align="center">Ask me questions anytime 💬</h2>
-<a align="center" href="https://www.meorhakimz.com/" >meorhakiz.com</a><br><br>
+<a align="center" href="https://www.meorhakimz.com/">meorhakiz.com</a>
+- ✉️ Email me: meorhakimz@gmail.com
+<br><br>
 
 ```bash
 # The Author
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
