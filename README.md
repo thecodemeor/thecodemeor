@@ -3,7 +3,7 @@
 <p align="center">✅  I am currently learning prompt engineering to make AI respond smarter and more creatively!</p><br>
 
 <h2 align="center">Ask me questions anytime 💬</h2>
-🌐 <a align="center" href="https://www.meorhakimz.com/">meorhakiz.com</a><br>
+🌐 <a align="center" href="https://www.meorhakimz.com/">meorhakimz.com</a><br>
 ✉️ <a align="center" href="emailto:meorhakimz@gmail.com"> meorhakimz@gmail.com</a>
 <br><br>
 
